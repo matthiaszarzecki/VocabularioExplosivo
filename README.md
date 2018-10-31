@@ -6,4 +6,6 @@
 
 Unity-based Vocabulary Learning App
 
+![Screenshot](vocabulario_explosivo.png)
+
 CC 2017
